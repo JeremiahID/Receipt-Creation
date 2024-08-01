@@ -20,7 +20,6 @@ print("\t"+"\t"+"\t" +"\t"+ "\t"+"Total")
 print("\t\t\t\t\t$" + '{:.2f}'. format(Total))
 print("=" *75 + "\n")
 
-
 print("\t\t""Thanks for shopping with us today!" + "\n")
 
 print("*" *75)
