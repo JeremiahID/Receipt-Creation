@@ -1,4 +1,3 @@
-
 company_name=("coding temple, inc.")
 company_address =("283 Franklin st." + "\n" + "\t\t\t" + "boston, MA.")
 P1_Price = 449.95
